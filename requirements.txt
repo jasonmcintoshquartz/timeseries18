@@ -1,0 +1,11 @@
+Flask==1.0.2
+dash==1.1.1
+dash_core_components 
+dash_html_components 
+numpy
+matplotlib
+scipy
+pandas 
+plotly
+gcsfs
+scipy
